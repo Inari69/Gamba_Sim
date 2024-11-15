@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/default.umap",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/protag_kun.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/idle_anim.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/attack_anim.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/protag_kun_Sprite_0.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/protag_kun_Sprite_1.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/protag_kun_Sprite_10.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/protag_kun_Sprite_11.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/protag_kun_Sprite_12.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/protag_kun_Sprite_13.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/protag_kun_Sprite_14.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/protag_kun_Sprite_15.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/protag_kun_Sprite_16.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/protag_kun_Sprite_17.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/protag_kun_Sprite_18.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/protag_kun_Sprite_19.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/protag_kun_Sprite_2.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/protag_kun_Sprite_3.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/protag_kun_Sprite_5.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/protag_kun_Sprite_6.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/walking_anim.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/tanaka_walk.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/tanaka_walk_anim.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/tanaka_walk_Sprite_0.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/tanaka_walk_Sprite_1.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/tanaka_walk_Sprite_2.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Sprites/tanaka_walk_Sprite_3.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/dupa.umap",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Blueprints/NewBlueprint.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Blueprints/Player.uasset",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Levels/House.umap",
+				"C:/Users/48698/Documents/Unreal Projects/Gamba_sim/Content/Blueprints/GM_blueprint.uasset"
+			]
+		}
+	]
+}
